@@ -1,0 +1,7 @@
+Student,gpa,java.lang.Double,false,idgpaname,octree,0.0,1000000.0
+Student,age,java.lang.Integer,false,agejobtut,octree,15,25
+Student,name,java.lang.String,false,idgpaname,octree,a,ZZZZZZZZZZZ
+Student,tut,java.lang.Integer,false,agejobtut,octree,1,40
+Student,job,java.lang.String,false,agejobtut,octree,a,mmmmmmm
+Student,bdate,java.util.Date,false,null,null,2000-01-01,2020-12-12
+Student,id,java.lang.Integer,true,idgpaname,octree,0,1000000
